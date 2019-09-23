@@ -3,7 +3,7 @@ pkg/
 src/github.com
 src/golang.org
 # Binaries for programs and plugins
-# *.exe
+*.exe
 *.exe~
 *.dll
 *.so
